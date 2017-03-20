@@ -1,3 +1,6 @@
+require 'pry'
+
+require_relative '../lib/donation'
 require_relative '../lib/project'
 require_relative '../lib/backer'
 
